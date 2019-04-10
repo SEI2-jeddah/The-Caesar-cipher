@@ -48,7 +48,10 @@ Must be return
 ```
 
 ```
-  
+
+ #bonus
+  -  Create a method ``encryption`` to encryption sentences
+  - 
 
 
 

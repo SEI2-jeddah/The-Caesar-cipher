@@ -5,17 +5,9 @@ The Caesar cipher is one of the earliest known and simplest ciphers. It is a typ
 ### Activity
 
 - Create a program to encrypt and decrypt Caesar
--  The program takes the sentence and decrypts it
-for For example
-```ruby
-"O ROQK VOFFG"
-```
-Must be return 
-```ruby
-"I LIKE PIZZA"
-```
-- You need to create a class called Caesar
--Inside the class define the Hash Plaintext and Ciphertext .
+
+- You need to create a class called ``Caesar``
+-Inside the class define the Hash ``Plaintext`` and ``Ciphertext`` .
 
 - Create a method ``decrypt`` to decrypt sentences
 
@@ -40,6 +32,15 @@ Key: is the encryption key
 mod: is (modulo operator)
 26: is a constant number that does not change because it represents the total number of characters in the English alphabet.
 -In this case the key is equal to 3
+-  The program takes the sentence and decrypts it
+for For example
+```ruby
+"O ROQK VOFFG"
+```
+Must be return 
+```ruby
+"I LIKE PIZZA"
+```
 
 
   

@@ -15,7 +15,8 @@ Must be return
 "I LIKE PIZZA"
 ```
 - You need to create a class called Caesar
--Inside the class define the Hash Plaintext and Ciphertext , and key as int . 
+-Inside the class define the Hash Plaintext and Ciphertext .
+
 -Create a method decrypt to decrypt sentences
 
 -

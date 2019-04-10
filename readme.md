@@ -50,7 +50,7 @@ Must be return
 ```
 
  #### bonus
-  -  Create a method ``encryption`` to encryption sentences``Ciphertext = ( Plaintext + Key) mod 26``
+  -  Create a method ``encryption`` to encryption sentences ( ``Ciphertext = ( Plaintext + Key) mod 26`` )
   - 
 
 

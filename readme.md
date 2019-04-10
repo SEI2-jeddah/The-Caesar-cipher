@@ -41,8 +41,13 @@ Must be return
 ```ruby
 "I LIKE PIZZA"
 ```
+- The sentences to be decoded : 
+```ruby
+"KHKX ROQK YVKIOGR SAYNXUUSY GTJ GHJARGFOF OY GRCGEY YSOROTM"
+```
+```
 
-
+```
   
 
 
@@ -50,7 +55,7 @@ Must be return
 ### Hints:
 
 - Work out how you would do it on paper first! Then start to explain that process in Ruby.
-- **The tools you will need**  (``.upcase!`` , ``.split("")`` , ``.key(key)`` )
+- **The tools you will need:**  (``.upcase!`` , ``.split("")`` , ``.key(key)`` )
 -  ``.key(key)`` :Returns the key of an occurrence of a given value. If the value is not found, returns nil.  
  
 

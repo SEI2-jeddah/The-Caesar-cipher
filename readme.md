@@ -26,11 +26,11 @@ R:14, S:15,T:16,U:17 , V:18 , W:19 ,X:20,Y:21 ,Z:22,A:23,B:24,C:25
 - Plaintext = Ciphertext - Key mod 26
 whereas:
 
-1- Ciphertext: The resulting character is after encryption
-2- Plaintext: is the original character before encryption
-3- Key: is the encryption key
-4- mod: is (modulo operator)
-5- 26: is a constant number that does not change because it represents the total number of characters in the English alphabet.
+1 - Ciphertext: The resulting character is after encryption
+2 - Plaintext: is the original character before encryption
+3 - Key: is the encryption key
+4 - mod: is (modulo operator)
+5 - 26: is a constant number that does not change because it represents the total number of characters in the English alphabet.
 -In this case the key is equal to 3
 -  The program takes the sentence and decrypts it
 for For example

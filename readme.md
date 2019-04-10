@@ -49,8 +49,8 @@ Must be return
 
 ### Hints:
 
-- Work out how you would do it on paper first! Then start to explain that process in JavaScript.
-- **The tools you will need** \n (``.upcase!`` , ``.split("")`` , ``.key(key)`` )
+- Work out how you would do it on paper first! Then start to explain that process in Ruby.
+- **The tools you will need**  (``.upcase!`` , ``.split("")`` , ``.key(key)`` )
 -  ``.key(key)`` :Returns the key of an occurrence of a given value. If the value is not found, returns nil.  
  
 

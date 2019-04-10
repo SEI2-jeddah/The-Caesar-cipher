@@ -1,4 +1,4 @@
-# The Caesar cipher
+# The Caesar cipher(قيصر) 
 The Caesar cipher is one of the earliest known and simplest ciphers. It is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet
 ![Bored](https://www.thejavaprogrammer.com/wp-content/uploads/2016/11/Caesar-Cipher-in-Java-Encryption-and-Decryption.png)
 
@@ -50,10 +50,11 @@ Must be return
 ### Hints:
 
 - Work out how you would do it on paper first! Then start to explain that process in JavaScript.
-- Focus on **a single line** before trying to tackle multiple lines!!
-  - Hint: A multiple line trip could be considered two single line trips
-- Don't worry about prompting the user for input. Hard code some values to get it working. You can use `prompt()` later, if you want, to make it more interactive.
-- Consider drawing the lines by sketching out the subway lines and their stops and intersection.
-- The key to the lab is finding the index positions of each stop. (hint: `.indexOf()` and `.includes()`)
+- **The tools you will need** \n (``.upcase!`` , ``.split("")`` )
+-  ``.key(key)`` :Returns the key of an occurrence of a given value. If the value is not found, returns nil.  
+  - 
+
+- 
+- 
 
 

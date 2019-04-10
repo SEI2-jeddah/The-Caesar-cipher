@@ -22,7 +22,7 @@ D:0,E:1,F:2 , G:3 ,H:4,I:5 ,J:6,K:7,L:8,M:9,N:10,O:11,P:12,Q:13,
 R:14, S:15,T:16,U:17 , V:18 , W:19 ,X:20,Y:21 ,Z:22,A:23,B:24,C:25
 }
 ```
-- The mathematical way to decrypt
+-- The mathematical way to decrypt
 - Plaintext = Ciphertext - Key mod 26
 
 

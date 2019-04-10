@@ -23,7 +23,7 @@ R:14, S:15,T:16,U:17 , V:18 , W:19 ,X:20,Y:21 ,Z:22,A:23,B:24,C:25
 }
 ```
 - The mathematical way to decrypt
-- Plaintext = Ciphertext - Key mod 26
+- `Plaintext = Ciphertext - Key mod 26`
 
 
 - Ciphertext: The resulting character is after encryption

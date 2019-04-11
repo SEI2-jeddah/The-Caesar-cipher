@@ -45,8 +45,9 @@ Must be return
 ```ruby
 "KHKX ROQK YVKIOGR SAYNXUUSY GTJ GHJARGFOF OY GRCGEY YSOROTM"
 ```
-```
 
+```ruby
+"Ck xk bkxe kdiozkj zngz kbkxeutk corr iusk zu cgzin mgsk ul znxutky gz luax gs ut sutjge"
 ```
 
  #### bonus

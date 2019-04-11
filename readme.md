@@ -35,7 +35,7 @@ R:14, S:15,T:16,U:17 , V:18 , W:19 ,X:20,Y:21 ,Z:22,A:23,B:24,C:25
 -  The program takes the sentence and decrypts it
 for For example
 ```ruby
-"O ROQK VOFFG"
+"O roqk voffg"
 ```
 Must be return 
 ```ruby

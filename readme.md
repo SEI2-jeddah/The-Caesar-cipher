@@ -7,7 +7,7 @@ The Caesar cipher is one of the earliest known and simplest ciphers. It is a typ
 - Create a program to encrypt and decrypt Caesar
 
 - You need to create a class called ``Caesar``
-- Inside the class define the Hash ``Plaintext`` and ``Ciphertext`` .
+- Inside the class define the object ``Plaintext`` and ``Ciphertext`` .
 
 - Create a method ``decrypt`` to decrypt sentences
 

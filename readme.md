@@ -13,11 +13,11 @@ The Caesar cipher is one of the earliest known and simplest ciphers. It is a typ
 
 
 ```ruby 
-@Plaintext={
+Plaintext={
     A:0,B:1,C:2 , D: 3 ,E:4,F:5 ,G:6, H:7,I:8,J:9,K:10,L:11,M:12,N:13,
     O:14, P:15,Q:16,R:17 , S:18 , T:19 ,U:20,V:21 ,W:22,X:23,Y:24,Z:25
 }
-@Ciphertex  ={
+Ciphertex  ={
 D:0,E:1,F:2 , G:3 ,H:4,I:5 ,J:6,K:7,L:8,M:9,N:10,O:11,P:12,Q:13,
 R:14, S:15,T:16,U:17 , V:18 , W:19 ,X:20,Y:21 ,Z:22,A:23,B:24,C:25
 }
@@ -43,11 +43,11 @@ Must be return
 ```
 - The sentences to be decoded : 
 ```ruby
-"KHKX ROQK YVKIOGR SAYNXUUSY GTJ GHJARGFOF OY GRCGEY YSOROTM"
+"oz grcgey ykksy osvuyyohrk atzor oz oy jutk"
 ```
 
 ```ruby
-"Ck xk bkxe kdiozkj zngz kbkxeutk corr iusk zu cgzin mgsk ul znxutky gz luax gs ut sutjge"
+"khkx roqk yvkiogr saynxuusy gtj gznkkx oy g bkmkzgxogt gtj gnskj oy bkxe toik"
 ```
 
  #### bonus
@@ -58,8 +58,8 @@ Must be return
 
 ### Hints:
 
-- Work out how you would do it on paper first! Then start to explain that process in Ruby.
-- **The tools you will need:**  (``.upcase!`` , ``.split("")`` , ``.key(key)`` )
--  ``.key(key)`` :Returns the key of an occurrence of a given value. If the value is not found, returns nil.  
+- Work out how you would do it on paper first! Then start to explain that process in js.
+- **The tools you will need:**  (  ``.split("")`` ,  create a method to get Key By Value !  )
+-  create a method to get Key By Value :Returns the key of an occurrence of a given value. If the value is not found, returns nil.  
  
 
